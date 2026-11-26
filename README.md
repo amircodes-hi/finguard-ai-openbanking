@@ -2,7 +2,7 @@
 
 **An interactive European Fintech compliance & fraud-triage prototype combining transparent deterministic banking rules (SEPA / Virtual IBAN / PSD2-AML) with Generative AI investigation briefs.**
 
-🔗 **Live Interactive Demo:** [Launch FinGuard AI]([PASTE-YOUR-LIVE-DEMO-URL-HERE]) *(Works immediately in zero-key Demo Mode — no API key required)*
+🔗 **Live Interactive Demo:** [Launch FinGuard AI](https://finguard-ai-openbanking.vercel.app) *(Works immediately in zero-key Demo Mode — no API key required)*
 
 ![FinGuard AI Dashboard Overview](./screenshots/dashboard-overview.png)
 
