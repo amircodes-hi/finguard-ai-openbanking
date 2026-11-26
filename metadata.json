@@ -1,0 +1,6 @@
+{
+  "name": "FinGuard AI — Open Banking & Anti-Fraud Transaction Triage Copilot",
+  "description": "European Open Banking & SEPA Anti-Fraud Transaction Triage Copilot for Fintech and Banking Compliance Analysts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
