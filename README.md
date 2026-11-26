@@ -63,6 +63,3 @@ npm install
 
 # 3. Start local development server
 npm run dev
-<img width="1837" height="847" alt="Screenshot 2026-11-26 181850" src="https://github.com/user-attachments/assets/787b03bb-d0fd-4df2-8dcd-6a6a915aab8d" />
-<img width="1848" height="847" alt="Screenshot 2026-11-26 181825" src="https://github.com/user-attachments/assets/95dd665f-2ede-4f2e-a86c-0625dc1cf2de" />
-<img width="1850" height="850" alt="Screenshot 2026-11-26 181802" src="https://github.com/user-attachments/assets/c111382d-a155-43ee-b244-0874866e0fe5" />
